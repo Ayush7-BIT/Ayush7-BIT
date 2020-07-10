@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Ayush Pandey header](https://raw.githubusercontent.com/rishiraj-acharya/rishiraj-acharya/master/cover.png)](https://rishiraj-acharya.github.io/info/)
-<p align="center">
 
 
 - 🔭 I’m currently working on 
