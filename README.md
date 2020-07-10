@@ -1,25 +1,22 @@
 ### Hi there 👋
+[![Ayush Pandey header](https://raw.githubusercontent.com/rishiraj-acharya/rishiraj-acharya/master/cover.png)](https://rishiraj-acharya.github.io/info/)
+<p align="center">
 
-<!--
-**Ayush7-BIT/Ayush7-BIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 JavaScript
 Express
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 Machine Learning
 AWS Solution Architect
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-Good First Issues
-Exciting projects to work on
-- 📫 How to reach me: ...
+- 💬 Ask me about 
+Good First Issues.
+Exciting projects to work on.
+- 📫 How to reach me 
 https://www.linkedin.com/in/ayush-pandey-974393193/
 https://twitter.com/AyushPa69252884
 https://www.instagram.com/cris__4__u/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns : He,Him. 
+- ⚡ Fun fact - National Level Football player.
+State Level Basketball.
+
