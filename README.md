@@ -16,9 +16,9 @@ AWS Solution Architect
 Good First Issues.
 Exciting projects to work on.
 - 📫 How to reach me 
-https://www.linkedin.com/in/ayush-pandey-974393193/ <br>
+https://www.linkedin.com/in/ayushpandeycris/ <br>
 https://twitter.com/BtechComrceWalh <br>
-https://www.instagram.com/cris__4__u/ <br>
+https://www.instagram.com/btechcommercewallah/ <br>
 - 😄 Pronouns : He,Him. 
 - ⚡ Fun fact - National Level Football player.
 State Level Basketball.
