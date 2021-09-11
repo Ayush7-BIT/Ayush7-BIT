@@ -17,7 +17,7 @@ Good First Issues.
 Exciting projects to work on.
 - 📫 How to reach me 
 https://www.linkedin.com/in/ayush-pandey-974393193/ <br>
-https://twitter.com/AyushPa69252884 <br>
+https://twitter.com/BtechComrceWalh <br>
 https://www.instagram.com/cris__4__u/ <br>
 - 😄 Pronouns : He,Him. 
 - ⚡ Fun fact - National Level Football player.
